@@ -1,5 +1,5 @@
 {
-  "description": "Redirect .dev to .localhost",
+  "description": "Redirect **://*.dev to http://*.localhost",
   "manifest_version": 2,
   "name": "redirect-dev-to-localhost",
   "version": "0.1",
