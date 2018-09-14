@@ -1,0 +1,11 @@
+{
+  "description": "Redirect .dev to .localhost",
+  "manifest_version": 2,
+  "name": "redirect-dev-to-localhost",
+  "version": "0.1",
+  "homepage_url": "https://github.com/mkg20001/redirect-dev-to-localhost",
+  "permissions": ["webRequest", "webRequestBlocking", "*://*.dev/*"],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
