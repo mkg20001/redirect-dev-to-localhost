@@ -9,7 +9,7 @@
     "scripts": ["background.js"]
   },
   "icons": {
-    "48": "logo.png",
+    "48": "logo48.png",
     "512": "logo.png"
   }
 }
